@@ -26,7 +26,7 @@ My Portfolio 🔗 : https://sudharshan-portfolio-b1y8u5thk-sudharshan0216s-proje
 1. Extract the ZIP file
 2. Navigate to the project directory:
    ```bash
-   cd sudharshan-portfolio
+   cd My-DA-Portfolio
    ```
 
 3. Install dependencies:
