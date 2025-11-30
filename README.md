@@ -4,7 +4,7 @@ A modern Data Analyst Portfolio built with React, TypeScript, Vite, and Tailwind
 
 ## 🚀 Live Demo
 
-My Portfolio 🔗 : https://sudharshan-portfolio-b1y8u5thk-sudharshan0216s-projects.vercel.app
+My Portfolio 🔗 : https://sudharshan-portfolio-omega.vercel.app/
 
 ## Features
 
